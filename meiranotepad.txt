@@ -1,0 +1,18 @@
+PRENTA ÚT FYRSTU N NÁTTÚRULEGAR TÖLUR MEÐ ENDURKVÆMRI FORRITUN
+
+first_natural(n)
+
+def first_n(n):
+    if n == 0:
+        return n
+    first_n(n-1)
+    print(n, end = " ")
+
+
+
+
+
+
+
+
+3/(21-20)+2*40 = 83
